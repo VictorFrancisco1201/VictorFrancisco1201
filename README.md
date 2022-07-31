@@ -2,9 +2,9 @@
 <h3 align="center">I'm passionate about all kinds of technologies and I'm always looking for more information about this area that is simply wonderful.</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+<h3 align="left"> 
  👩‍💻High School Student Trying to Become Full Stack Dev Student🧐</strong> 
-</p>
+</h3>
   
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
